@@ -7,6 +7,7 @@ API_URL = 'https://immgmt.88hmf.com/bctalk-mgmt/admin/login'
 # 是否需要签名
 IS_SIGN = False
 
+
 # 密码是否要加密
 IS_MD5 = False
 # 需要加密的参数名
